@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Computing Science (Thesis-based) 
+    * 2024 – Present 
+    * University of Alberta
+* Bachelor of Science in Computing Science 
+    * Sep 2019 – May 2024 
+    * University of Alberta
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024 - present: Research Assistant
+  * IRL lab, University of Alberta
+  * Duties included: literature review, reserach
+  * Supervisor: Matthew E. Taylor
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Nov 2023: Research Assistant
+  * Huawei Canada
+  * Duties included: literature review, reserach
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++, R, SQL, Java, HTML
+* Machine Learning: PyTorch, Hugging Face, Lightning Fabric
+* LLM Training and Alignment: Supervised fine-tuning, PPO, GRPO, DPO, LLaMAFactory, veRL, vLLM
+* Reinforcement Learning: Reward design, Expected SARSA, softmax action selection, neural networks
+* Other: Android Studio, reproducible experimentation, literature review, technical presentation
 
 Publications
 ======
